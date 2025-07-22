@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Lucas Vieira 
 
-**` Estudante de Ciência de Dados`**
+**` Estudante de Engenharia de Machine Learning`**
 
-Meu nome é Lucas Da Silva Vieira, tenho 13 anos, atualmente estou estudando com o curso do professor Fernando Amaral, na Udemy, para que no futuro eu possa aplicar para vagas na área de dados. 
+Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estudar e no futuro me tornar um engenheiro de machine learning.
  
 
 
@@ -12,11 +12,11 @@ Meu nome é Lucas Da Silva Vieira, tenho 13 anos, atualmente estou estudando com
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Pandas" 
+    title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://img.icons8.com/color/48/pandas.png" alt="pandas" 
 />
 <img 
     align="left" 
@@ -44,20 +44,12 @@ Meu nome é Lucas Da Silva Vieira, tenho 13 anos, atualmente estou estudando com
 />
 <img
      align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
+    alt="Anaconda" 
+    title="Anaconda"
     width="30px" 
     style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"        
- />
-<img
-     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
-/>      
+     src="https://github.com/user-attachments/assets/b2eac1ed-0e70-48ae-8203-cf3b9015fbb0" />       
+   
 <br/>
 <br/>
 
@@ -66,3 +58,4 @@ Meu nome é Lucas Da Silva Vieira, tenho 13 anos, atualmente estou estudando com
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucxsz10/lucxsz10/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucxsz10/lucxsz10/output/github-contribution-grid-snake.svg">
 </picture>
+/////
