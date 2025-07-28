@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Vieira 
 
-**` Estudante de Engenharia de Machine Learning`**
+**` Estudante de Analise de Dados`**
 
 Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estudar e no futuro me tornar um analista de dados.
  
