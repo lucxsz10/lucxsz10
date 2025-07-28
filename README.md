@@ -2,7 +2,7 @@
 
 **` Estudante de Engenharia de Machine Learning`**
 
-Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estudar e no futuro me tornar um engenheiro de machine learning.
+Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estudar e no futuro me tornar um analista de dados.
  
 
 
