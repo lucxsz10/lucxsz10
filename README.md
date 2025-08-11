@@ -2,7 +2,7 @@
 
 **` Estudante de Analise de Dados`**
 
-Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estudar e no futuro me tornar um analista de dados.
+Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estudar para que no futuro me tornar um analista de dados. 
  
 
 
