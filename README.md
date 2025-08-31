@@ -28,11 +28,11 @@ Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estud
 />
 <img 
     align= "left"
-    alt="R"
-    title="R"
+    alt="Azure"
+    title="Azure"
     width="30px"
     style= "padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"
+    src="https://img.icons8.com/fluency/48/azure-1.png"
 />
 <img
      align="left" 
