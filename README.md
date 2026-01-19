@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Lucas Vieira 
 
-**` Estudante de Ciência De Dados`**
+**` Estudante de ANalaise e Ciência De Dados`**
 
-Meu nome é Lucas Da Silva Vieira, tenho 13 anos, e atualmente meu foco é estudar para que no futuro me tornar um analista de dados. 
+Meu nome é Lucas Da Silva Vieira, tenho 14 anos, e atualmente meu foco é estudar para que no futuro me tornar um analista de dados. 
  
 
 
