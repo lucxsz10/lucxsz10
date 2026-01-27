@@ -1,9 +1,10 @@
 # 👩🏻‍💻 Lucas Vieira 
 
-**` Estudante focado em análise de dados, automação e projetos práticos com Python e SQL.`**
+**` Estudante focado em Análise e Ciência de dados. `**
 
+ focado em aprendizado contínuo e desenvolvimento de projetos práticos.
  
- 
+minha lista de [Stacks]()
 
 
 
