@@ -10,10 +10,7 @@ minha lista de [Stacks]()
 
 ---
 
- src="https://github.com/user-attachments/assets/b2eac1ed-0e70-48ae-8203-cf3b9015fbb0" />       
-   
-<br/>
-<br/>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucxsz10/lucxsz10/output/github-contribution-grid-snake-dark.svg">
