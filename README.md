@@ -4,7 +4,7 @@
 
  ### Focado em aprendizado contínuo e desenvolvimento de projetos práticos.
  
-minha lista de [Stacks]()
+#### Minha ➡️ lista de [Stacks]() ⬅️
 
 
 
