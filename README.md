@@ -10,46 +10,7 @@ minha lista de [Stacks]()
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/pandas.png" alt="pandas" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align= "left"
-    alt="Azure"
-    title="Azure"
-    width="30px"
-    style= "padding-right: 10px;"
-    src="https://img.icons8.com/fluency/48/azure-1.png"
-/>
-<img
-     align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img
-     align="left" 
-    alt="Anaconda" 
-    title="Anaconda"
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://github.com/user-attachments/assets/b2eac1ed-0e70-48ae-8203-cf3b9015fbb0" />       
+ src="https://github.com/user-attachments/assets/b2eac1ed-0e70-48ae-8203-cf3b9015fbb0" />       
    
 <br/>
 <br/>
