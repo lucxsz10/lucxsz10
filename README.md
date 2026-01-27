@@ -2,7 +2,7 @@
 
 **` Estudante focado em Análise e Ciência de dados. `**
 
- ### focado em aprendizado contínuo e desenvolvimento de projetos práticos.
+ ### Focado em aprendizado contínuo e desenvolvimento de projetos práticos.
  
 minha lista de [Stacks]()
 
