@@ -4,7 +4,7 @@
 
  ### Focado em aprendizado contínuo e desenvolvimento de projetos práticos.
  
-#### Minha Lista de [Stacks]() ⬅️
+#### Minha Lista de [Stacks](https://github.com/lucxsz10/Stacks) ⬅️
 
 
 
